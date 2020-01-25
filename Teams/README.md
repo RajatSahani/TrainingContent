@@ -19,7 +19,7 @@ The existing modules (listed above) will remain until all new content has been p
 - [10 - Introduction to building apps for Microsoft Teams](10%20Introduction%20to%20building%20apps%20for%20Microsoft%20Teams)
 - 20 - Task oriented interactions w/ messaging extensions
 - [30 - Embedded web experiences with tabs](./30%20Create%20Embedded%20Web%20Experiences%20with%20Tabs%20for%20Microsoft%20Teams)
-- 40 - Conversation bots
+- [40 - Conversational bots](/40%20Conversational%20Bots)
 - [50 - Task modules](./50%20Task%20Modules)
 - 60 - Webhooks & connectors
 
